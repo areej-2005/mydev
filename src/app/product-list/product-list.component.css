@@ -1,0 +1,31 @@
+.search-container {
+    margin-bottom: 1rem;
+  }
+  
+  .filter-container {
+    margin-bottom: 1rem;
+  }
+  
+  .filter-container button {
+    margin-right: 0.5rem;
+    padding: 0.5rem 1rem;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .filter-container button.active {
+    background-color: #007bff;
+    color: white;
+  }
+  
+  .product-list .product-card {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 1rem;
+    margin-bottom: 1rem;
+  }
+  
+  .product-list .product-card button {
+    margin-top: 0.5rem;
+  }
+  
